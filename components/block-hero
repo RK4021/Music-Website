@@ -1,0 +1,12 @@
+<div class="block-hero">
+    <div class="hero__content">
+        <div class="block container">
+            <h1>myTunes</h1>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maiores, fugiat.</p>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Saepe consequatur quia illo ipsa? Ratione
+                commodi quidem ipsa odio vel laboriosam! Ullam, autem. Mollitia quia omnis ea blanditiis eos
+                excepturi
+                dignissimos.</p>
+        </div>
+    </div>
+</div>
